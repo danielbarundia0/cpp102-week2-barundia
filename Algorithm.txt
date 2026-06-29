@@ -6,6 +6,7 @@ STEP3:  Ask the user to enter the second number. Store it as num2.
 STEP4: Computersum = num1+ num2.
 STEP5: Display sum.
 STEP6: End.
+<<<<<<< HEAD
  
 LABORATORY ACTIVITY 2: Compute the average of three Quiz Scores.
 ALGORITHM:
@@ -25,3 +26,6 @@ STEP3: Check if number MOD 2 equals 0.
 STEP4: If yes, display "Even".
 STEP5: If no, display "Odd".
 STEP6: End.
+=======
+
+>>>>>>> a4063b8c824d1ca8d6e58fc168755be8aee94f3a
