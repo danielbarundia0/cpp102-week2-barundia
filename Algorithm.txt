@@ -1,8 +1,27 @@
-LABORATORY ACTIVITY 1: Add Two Numbers 
-ALGORITHM
+LABORATORY ACTIVITY 1: Add Two Numbers.
+ALGORITHM:
 STEP 1: START
 STEP 2: Ask the user to enter the first number. Storeit as Num1.
 STEP3:  Ask the user to enter the second number. Store it as num2.
 STEP4: Computersum = num1+ num2.
 STEP5: Display sum.
+STEP6: End.
+ 
+LABORATORY ACTIVITY 2: Compute the average of three Quiz Scores.
+ALGORITHM:
+STEP 1: START.
+STEP 2: Ask the user to enter the number. Store as a score1.
+STEP 3: Ask the user to enter the second number. Store as a score2.
+STEP 4: Ask the user to enter the third number. Store as a score3.
+STEP5: Compute sum = score1 + score2 + score3
+STEP6: Display average.
+STEP8: End.
+
+LABORATORY ACTIVITY  3: Determine if a number is even or odd.
+Algorithm
+STEP1: Start.
+STEP2: Ask the user to enter the number. Store it as a number.
+STEP3: Check if number MOD 2 equals 0.
+STEP4: If yes, display "Even".
+STEP5: If no, display "Odd".
 STEP6: End.
