@@ -1,7 +1,26 @@
-PSEUDOCODE:
+Activity 1: add two numbers
+pseudocode:
 START
 INPUT num1
 INPUT num2 
 PROCESS sum =num1 +num2
 DISPLAY sum
 END.
+
+Activity 2: Determine if a student passed of failed
+START
+INPUT grade1
+INPUT grade2
+INPUT grade3
+PROCESS average = (grade1 + grade2 + grade3) / 3
+DISPLAY average
+END
+
+ACTIVITY 3: Determine if a number is positive or negative
+START
+INPUT grade
+If grade >= 60 THEN 
+DISPLAY "Passed"
+ELSE
+DISPLAY "Failed"
+END IF END
