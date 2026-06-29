@@ -6,3 +6,10 @@ STEP3:  Ask the user to enter the second number. Store it as num2.
 STEP4: Computersum = num1+ num2.
 STEP5: Display sum.
 STEP6: End.
+PSEUDOCODE:
+START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+END
